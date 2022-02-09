@@ -1,0 +1,6 @@
+code: strapi-first-bundle
+description: Template for strapi projects
+components:
+  widgets:
+    - ui/widgets/widgets-dir/et-widget/et-widget-descriptor.yaml
+
